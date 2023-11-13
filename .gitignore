@@ -1,3 +1,4 @@
 # ignorar los siguientes archivos
 test.txt.swp.txt
 *.swp
+*.txt

@@ -6,10 +6,4 @@ Prueba de remotos
 Prueba de git pull
 Prueba de git push
 
-
-
-
-
-
-
-
+Prueba de Master
